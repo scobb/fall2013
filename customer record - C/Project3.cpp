@@ -1,9 +1,7 @@
 /* 
  * EE312 Simple CRM Project
  *  Steven Cobb
-	scc2448
-	Duncan Horn
-	F: 1-1:50
+	UT - Austin
 	
  */
 

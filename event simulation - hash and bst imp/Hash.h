@@ -2,8 +2,8 @@
 
 Steve Cobb
 Hash.h
-TA: Duncan Horn
-F: 1-1:50
+EE 312
+UT - Austin
 
 Note: this hash table uses the car's number as its hash value, because
 all car numbers will be unique. 

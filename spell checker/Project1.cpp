@@ -4,8 +4,7 @@
  * 
  * EE312 Project 1 (Spell Check)
  * Steven Cobb
- * Duncan Horn
- * F: 1-1:50
+ * UT - Austin
  */
 
 #include <stdio.h>

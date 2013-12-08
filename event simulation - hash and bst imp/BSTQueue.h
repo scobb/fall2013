@@ -4,8 +4,8 @@
 /* BSTQueue.h
 
 Steve Cobb
-TA: Duncan Horn
-F: 1-1:50
+EE 312
+UT - Austin
 
  */
 

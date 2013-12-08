@@ -1,8 +1,8 @@
 /*Race.h
 
 	Author: Steve Cobb
-	TA: Duncan Horn
-	Monday, 1-1:50
+	EE 312
+    UT - Austin
 */
 
 #include <algorithm>

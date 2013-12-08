@@ -1,8 +1,8 @@
 /*--CustomerDB.cpp------------------------------------
 
 	Author: Steve Cobb
-	TA: Duncan Horn
-	Session: F, 1-1:50
+	EE 312
+    UT - Austin
 
 ----------------------------------------------------*/
 

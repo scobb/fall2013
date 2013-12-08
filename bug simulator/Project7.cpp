@@ -1,7 +1,7 @@
 /*Steve Cobb
   Project 7
-  TA: Duncan Horn
-  Friday, 1-1:50
+  EE 312
+  UT - Austin
 */
 
 //**************INCLUDES************************

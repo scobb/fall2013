@@ -1,8 +1,9 @@
 /*
  * Project5.cpp 
  *	Steve Cobb
-	Duncan Horn
-	F: 1-1:50p
+	EE 312
+    UT - Austin
+ 
  *
  */
 

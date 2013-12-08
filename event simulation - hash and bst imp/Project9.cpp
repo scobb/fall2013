@@ -1,7 +1,7 @@
 /* Project 9
 Steve Cobb
-TA: Duncan Horn
-F: 1-1:50
+EE 312
+UT - Austin
 */
 
 #include <stdio.h>
